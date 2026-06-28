@@ -1,6 +1,6 @@
-# colors-convert
+# 🎨colors-convert
 
-## package
+## 📦package
 | functions  | descriptions |
 | :--------- | :----------- |
 | inRgbToHex | RGB → HEX    |
@@ -17,7 +17,7 @@
 | inHslToHsv | HSL → HSV    |
 
 
-## termial
+## 💻termial
 ```
 pnpm add @nangmanhunter/colors-convert
 ```
