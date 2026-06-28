@@ -1,6 +1,6 @@
 {
   "name": "@nangmanhunter/colors-convert",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Strict mathematical color converter for HEX, RGB, HSV, and HSL",
   "author": "NangmanHunter",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
-    "README.md" 
+    "README.md"
   ],
   "scripts": {
     "build": "tsup",
