@@ -1,13 +1,9 @@
 {
   "name": "@nangmanhunter/colors-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strict mathematical color converter for HEX, RGB, HSV, and HSL",
-
-
   "author": "NangmanHunter",
   "license": "MIT",
-
-  
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
@@ -17,11 +13,9 @@
   ],
   "scripts": {
     "build": "tsup",
-    "prepublishOnly": "pnpm build" 
+    "prepublishOnly": "pnpm build"
   },
   "keywords": [],
-
-
   "devDependencies": {
     "tsup": "^8.5.1",
     "typescript": "^6.0.3"
